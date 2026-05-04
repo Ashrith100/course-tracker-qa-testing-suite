@@ -20,4 +20,4 @@ Student Course Tracker built with C#/.NET MVC, Razor Views, and Bootstrap.
 - Edge case analysis  
 - End-to-end workflow testing  
 - Version control using Git/GitHub  
-- Basic test automation (MSTest)  
+- Test automation (MSTest)  
