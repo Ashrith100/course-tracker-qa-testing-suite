@@ -9,7 +9,7 @@ This project demonstrates manual and automated testing of a course management sy
 - Manual test cases  
 - Bug reports with reproduction steps and impact  
 - Edge case testing (e.g., invalid inputs, NaN calculations)  
-- Basic test automation using MSTest  
+- Test automation using MSTest  
 
 ## Application Under Test
 Student Course Tracker built with C#/.NET MVC, Razor Views, and Bootstrap.
