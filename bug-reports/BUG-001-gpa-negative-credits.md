@@ -23,4 +23,4 @@ Course is added and GPA calculation becomes incorrect.
 - OS: macOS
 
 ## Screenshot
-![Negative credits bug](../screenshots/BUG-001-negative-credits.png)
+![BUG-001](../screenshots/BUG-001-gpa-negative-credits.png)
